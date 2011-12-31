@@ -1,0 +1,15 @@
+tree
+ app
+   business
+   models
+   presenters
+   controllers
+   ...
+ spec
+   business
+   models
+   presenters
+   controllers
+   model_helper.rb
+   presenter_helper.rb
+   business_helper.rb
